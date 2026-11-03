@@ -1,0 +1,9 @@
+{
+  "name": "Vechola - Find Your Match",
+  "short_name": "Vechola",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf8fa",
+  "theme_color": "#7b244b",
+  "description": "A responsive local-first matrimonial profile discovery app."
+}
